@@ -1,0 +1,4 @@
+logbook:
+  format: json
+  level: TRACE
+  include: ALL
