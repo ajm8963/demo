@@ -1,4 +1,4 @@
-logbook:
-  format: json
-  level: TRACE
-  include: ALL
+logging:
+  file:
+    name: logi
+    path: /
